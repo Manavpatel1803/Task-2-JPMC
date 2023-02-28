@@ -1,2 +1,2 @@
-# Task-2-JPMC
-Hello this is the task 2 of JP morgan Software Engineering Virtual Internship 
+# JPMC Task 2
+Starter repo for task 2 of JPMC's Forage program
